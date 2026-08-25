@@ -38,41 +38,43 @@ I'm currently studying **Software Engineering** and expanding my knowledge in **
 <div align="center">
 
 ### ⚙️ Automation & Integrations
-
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_API-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Webhooks-FF304F?style=for-the-badge"/>
 
-<br><br>
-
 ### 💻 Programming
-
 <img src="https://skillicons.dev/icons?i=python"/>
 
-<br><br>
-
 ### 🗄️ Data
-
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
-<br><br>
-
 ### 🧠 Artificial Intelligence
-
 <img src="https://img.shields.io/badge/AI_Agents-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLM-FF304F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI_Automation-8A2BE2?style=for-the-badge"/>
 
-<br><br>
-
 ### 🔧 Tools
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
 </div>
 
+---
 ## 🚀 Featured Project
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=felipealvess-dev&show_icons=true&theme=transparent&hide_border=true&title_color=FF304F&icon_color=FF304F&text_color=FFFFFF"/>
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealvess-dev&layout=compact&theme=transparent&hide_border=true&title_color=FF304F&text_color=FFFFFF"/>
+
+</div>
+
+---
 
 ### 💰 WalletUp
 
