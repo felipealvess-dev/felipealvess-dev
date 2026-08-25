@@ -4,7 +4,9 @@
 
 ### Automation Analyst | System Integrations | AI Automation
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF304F&center=true&vCenter=true&width=650&lines=Automation+Analyst;Building+automation+with+n8n;Python+%26+SQL;System+Integrations;AI+Agents+%26+Intelligent+Workflows" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF304F&center=true&vCenter=true&width=650&lines=Automation+Analyst;Building+automation+with+n8n;Python+%26+SQL;System+Integrations;AI+Agents+%26+Intelligent+Workflows"
+/>
 
 </div>
 
@@ -23,7 +25,7 @@ Currently working with:
 - 🗄️ SQL / SQL Server
 - 🌐 REST APIs & Webhooks
 - 🧠 AI Agents
-- ✨ AI-powered workflows
+- ✨ AI-powered Workflows
 
 I'm currently studying **Software Engineering** and expanding my knowledge in **Backend Engineering and Applied AI**.
 
@@ -31,30 +33,43 @@ I'm currently studying **Software Engineering** and expanding my knowledge in **
 
 ## 🛠️ Tech Stack
 
-### Automation & Integration
+### ⚙️ Automation & Integrations
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![Webhooks](https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webhooks-FF304F?style=for-the-badge"/>
+</p>
 
-### Programming & Data
+### 💻 Programming
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-### Artificial Intelligence
+### 🗄️ Data
 
-![AI Agents](https://img.shields.io/badge/AI_Agents-111111?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge)
-![Automation](https://img.shields.io/badge/AI_Automation-FF304F?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
 
-### Tools
+### 🧠 Artificial Intelligence
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/AI_Agents-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLM-FF304F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI_Automation-8A2BE2?style=for-the-badge"/>
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
 ---
 
@@ -64,7 +79,7 @@ I'm currently studying **Software Engineering** and expanding my knowledge in **
 
 Personal finance management application developed with the support of Artificial Intelligence.
 
-> More automation and AI projects coming soon.
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felipealvess-dev/WalletUp)
 
 ---
 
