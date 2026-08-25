@@ -62,20 +62,6 @@ I'm currently studying **Software Engineering** and expanding my knowledge in **
 ---
 ## 🚀 Featured Project
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=felipealvess-dev&show_icons=true&theme=transparent&hide_border=true&title_color=FF304F&icon_color=FF304F&text_color=FFFFFF"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealvess-dev&layout=compact&theme=transparent&hide_border=true&title_color=FF304F&text_color=FFFFFF"/>
-
-</div>
-
----
-
 ### 💰 WalletUp
 
 Personal finance management application developed with the support of Artificial Intelligence.
