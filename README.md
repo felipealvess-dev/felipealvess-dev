@@ -92,6 +92,18 @@ Personal finance management application developed with the support of Artificial
 
 ---
 
+---
+
+## 📫 Contact
+
+<div align="center">
+
+<a href="mailto:felipebragaa.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-felipebragaa.dev%40gmail.com-FF304F?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
 ## 🎯 Current Focus
 
 ```text
@@ -104,3 +116,5 @@ Backend Engineering
 Applied AI
     ↓
 AI Engineering
+
+---
