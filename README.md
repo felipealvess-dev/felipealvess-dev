@@ -1,16 +1,29 @@
-## Hi there 👋
+**About Me**
 
-<!--
-**felipealvess-dev/felipealvess-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automation Analyst focused on process automation,
+system integrations and AI-powered solutions.
 
-Here are some ideas to get you started:
+Currently working with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Workflow automation
+• n8n
+• Python
+• SQL
+• REST APIs
+• System integrations
+• AI Agents
+
+Currently studying Software Engineering and expanding
+my knowledge in Backend Engineering and Applied AI.
+
+**Automation**
+n8n
+Webhooks
+REST APIs
+
+**Programming**
+Python
+
+**Data**
+SQL
+SQL Server
