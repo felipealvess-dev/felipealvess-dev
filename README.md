@@ -77,7 +77,7 @@ Personal finance management application developed with the support of Artificial
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-Loading recent activity...
+- No recent public activity yet.
 <!--END_SECTION:activity-->
 
 ---
