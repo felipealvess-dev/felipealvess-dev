@@ -70,6 +70,18 @@ Personal finance management application developed with the support of Artificial
 
 ---
 
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/felipealvess-dev/felipealvess-dev/output/github-snake-dark.svg)
+
+</div>
+
+---
+
 ## 🎯 Current Focus
 
 ```text
