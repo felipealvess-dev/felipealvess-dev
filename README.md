@@ -35,45 +35,42 @@ I'm currently studying **Software Engineering** and expanding my knowledge in **
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### ⚙️ Automation & Integrations
 
-<p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Webhooks-FF304F?style=for-the-badge"/>
-</p>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Webhooks-FF304F?style=for-the-badge"/>
+
+<br><br>
 
 ### 💻 Programming
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<br><br>
 
 ### 🗄️ Data
 
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+<br><br>
 
 ### 🧠 Artificial Intelligence
 
-<p>
-  <img src="https://img.shields.io/badge/AI_Agents-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLM-FF304F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI_Automation-8A2BE2?style=for-the-badge"/>
-</p>
+<img src="https://img.shields.io/badge/AI_Agents-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM-FF304F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Automation-8A2BE2?style=for-the-badge"/>
+
+<br><br>
 
 ### 🔧 Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
----
+</div>
 
 ## 🚀 Featured Project
 
