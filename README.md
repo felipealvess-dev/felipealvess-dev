@@ -1,6 +1,8 @@
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Felipe Alves - Automation, System Integrations and AI"/>
+</p>
 <div align="center">
 
-# 👋 Hi, I'm Felipe Alves
 
 ### Automation Analyst | System Integrations | AI Automation
 
