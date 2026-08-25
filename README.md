@@ -16,14 +16,14 @@ Currently working with:
 Currently studying Software Engineering and expanding
 my knowledge in Backend Engineering and Applied AI.
 
-**Automation**
+**Automation:**
 n8n
 Webhooks
 REST APIs
 
-**Programming**
+**Programming:**
 Python
 
-**Data**
+**Data:**
 SQL
 SQL Server
