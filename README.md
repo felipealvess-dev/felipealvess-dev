@@ -68,7 +68,9 @@ I'm currently studying **Software Engineering** and expanding my knowledge in **
 
 ## 🎯 Current Focus
 
-```text
+<div align="center">
+
+<pre>
 QA Fundamentals
       ↓
 Test Automation
@@ -78,3 +80,48 @@ Quality Engineering
 AI / LLM Quality
       ↓
 AI Quality Engineering
+</pre>
+
+</div>
+
+My current learning path combines **software quality, automation and Artificial Intelligence**, using programming as a foundation for building automated tests, integrations and AI quality solutions.
+
+---
+
+## 🚀 Featured Project
+
+### 💰 WalletUp
+
+Personal finance management application developed with the support of Artificial Intelligence.
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felipealvess-dev/WalletUp)
+
+---
+
+## ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+- No recent public activity yet.
+<!--END_SECTION:activity-->
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/felipealvess-dev/felipealvess-dev/output/github-snake-dark.svg)
+
+</div>
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+<a href="mailto:felipebragaa.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-felipebragaa.dev%40gmail.com-FF304F?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
