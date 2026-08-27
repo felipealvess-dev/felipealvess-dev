@@ -107,10 +107,12 @@ Personal finance management application developed with the support of Artificial
 ## 🎯 Current Focus
 
 ```text
-Quality Engineering
-        ↓
+QA Fundamentals
+      ↓
 Test Automation
-        ↓
-AI / LLM Testing
-        ↓
+      ↓
+Quality Engineering
+      ↓
+AI / LLM Quality
+      ↓
 AI Quality Engineering
